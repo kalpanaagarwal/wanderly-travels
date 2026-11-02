@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Wanderly_Travels_41d6c37d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Wanderly Travels (Main)",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Wanderly_Travels"
+        }
+    ]
+}
